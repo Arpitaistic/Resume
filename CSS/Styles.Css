@@ -1,0 +1,99 @@
+.Portfolio {
+    background-color: #FBFACD;
+    position: relative;
+    padding-top: 100px;
+    margin-bottom: 0;
+  }
+  .intro {
+    width: 300px;
+    margin: auto;
+  }
+  .Education {
+    margin: auto;
+    width: 100%;
+    background-color: #FBFACD;
+  }
+  body {
+    background-color: #FBFACD;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+  }
+  a {
+    color: #7A4495;
+    text-decoration: none;
+    font-family: 'Merriweather', serif;
+  }
+  hr {
+    border: dotted #432C7A 6px;
+    border-bottom: None;
+    width: 4%;
+    margin: 100px auto;
+  }
+  .copyright{
+    color: #5E454B;
+  }
+  .top-cloud {
+    position: absolute;
+    right:300px;
+    top:40px;
+  }
+  .bottom-cloud {
+    position:absolute;
+    left:250px;
+    bottom:50px;
+    bottom: 700px;
+  }
+  h1 {
+   line-height: 2;
+   text-decoration: underline;
+   font-size: 50px;
+   color: #7A4495;
+   margin: 50px auto 0 auto;
+   font-family: 'Dancing Script', cursive;
+ }
+ h2 {
+   color: #7A4495;
+   text-decoration: underline;
+   font-size: 40px;
+   font-family:'Dancing Script', cursive;
+   font-weight: normal;
+ }
+ h3 {
+   font-family: 'Dancing Script', cursive;
+ }
+ .Skills {
+   background-color: #FBFACD;
+ }
+ .hobbies {
+   background-color: #FBFACD;
+ }
+ .Contact {
+   background-color: #FBFACD;
+ }
+
+ .buttonClass {
+   font-size:15px;
+   font-family:Arial;
+   width:140px;
+   height:50px;
+   border-width:1px;
+   color:#fff;
+   border-color:#c584f3;
+   font-weight:bold;
+   border-top-left-radius:6px;
+   border-top-right-radius:6px;
+   border-bottom-left-radius:6px;
+   border-bottom-right-radius:6px;
+   box-shadow:inset 0px 1px 0px 0px #efdcfb;
+   text-shadow:inset 0px 1px 0px #9752cc;
+   background:linear-gradient(#dfbdfa, #bc80ea);
+ }
+
+ .buttonClass:hover {
+   background: linear-gradient(#bc80ea, #dfbdfa);
+ }
+
+  .footer {
+    background-color:#F0D9FF;
+  }
